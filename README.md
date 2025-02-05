@@ -11,9 +11,18 @@ This project involves training and evaluating a machine learning model to predic
 6. Training the best-performing Random Forest Regressor model
 7. Making predictions and evaluating the model
 
+# Improvisations Made
+Replaced Linear Regression with Random Forest Regressor
+Implemented Hyperparameter Tuning using GridSearchCV
+Performed Cross-Validation
+
 # Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - GridSearchCV
+
+# Repository Contents
+- Jupyter Notebook file containing the code
+- Dataset file (solarpowergeneration.csv)

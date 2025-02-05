@@ -12,16 +12,16 @@ This project involves training and evaluating a machine learning model to predic
 7. Making predictions and evaluating the model
 
 # Improvisations Made
-Replaced Linear Regression with Random Forest Regressor
-Implemented Hyperparameter Tuning using GridSearchCV
-Performed Cross-Validation
+- Replaced Linear Regression with Random Forest Regressor
+- Feature Engineering using solar_irradiance with output displayed using scatter plot and heatmap
+- Advanced Data Preprocessing with Histogram Plot of scaled and unscaled data
+- Dimentionality Reduction with Plot scatter plot of reduced data
 
 # Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- GridSearchCV
 
 # Repository Contents
 - Jupyter Notebook file containing the code
